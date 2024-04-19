@@ -12,7 +12,7 @@ const HeaderTop = () => {
             </div>
         </div>
         <div className="flex justify-between items-center">
-            <div className="text-zinc-500 dark:text-zinc-300">Hot</div>
+            {/* <div className="text-zinc-500 dark:text-zinc-300">Hot</div> */}
             <div className="text-zinc-500 dark:text-zinc-300">...</div>
         </div>
     </div>

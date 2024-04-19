@@ -41,31 +41,9 @@
 @import 'tailwindcss/utilities'; 
 
 
-/* .image-gallery-container{
-
-}
-.image-container{
-  padding: 10px;
-  margin: 30px;
-  background-color: #DADADA;
-}
-.image-title{
-  font-size: 1.6em;
-  font-weight: 500;
-  position: relative;
-  
-}
-.image{
-  border-radius: 10px;
-  width: 600px;
-  height: 300px;
-} */
 
 
-.image-gallery-container {
-  /* display: flex;
-  justify-content: center; */
-}
+
 
 .image-container {
   position: relative;
@@ -74,7 +52,6 @@
   padding: 10px;
   margin: 30px;
   background-color: #DADADA;
-  /* text-align: center;  */
   border-radius: 6px;
   cursor: pointer;
 }
